@@ -90,6 +90,6 @@ Company-Specific Modules: Develop dedicated training modules for the interview p
 👤 Author
 Name: Sai Krishna Anegunta
 
-LinkedIn: https://www.linkedin.com/in/saikrishna-anegunta/
+LinkedIn: https://www.google.com/search?q=https://www.linkedin.com/in/saikrishna-anegunta/
 
-GitHub: https://github.com/saikrishna1773/
+GitHub: https://www.google.com/search?q=https://github.com/saikrishna1773/
